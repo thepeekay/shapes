@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please install necessary libraries on local using : `npm install` command in your local project folder
+Start App using `npm start` 
 
 ## Available Scripts
 
